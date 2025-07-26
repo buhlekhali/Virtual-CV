@@ -17,4 +17,4 @@ My professional portfolio website showcasing:
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/buhlekhali/Virtual-CV.git
+   https://github.com/buhlekhali/Virtual-CV.git
